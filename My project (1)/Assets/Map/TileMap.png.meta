@@ -765,7 +765,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      TileMap_21: -1462609110
+      TileMap_2: -845575273
       TileMap_17: -1510074564
       TileMap_19: -1007275618
       TileMap_29: -1156952356
@@ -792,8 +792,8 @@ TextureImporter:
       TileMap_16: 2094170990
       TileMap_25: 1798338050
       TileMap_8: 649859660
-      TileMap_2: -845575273
       TileMap_18: 917197052
+      TileMap_21: -1462609110
       TileMap_1: 575499197
   spritePackingTag: 
   pSDRemoveMatte: 0
