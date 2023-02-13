@@ -101,7 +101,7 @@ public class PlayerController : MonoBehaviour
             float dx = p2.x - p1.x; //벡터의 x값 차이
             float dy = p2.y - p1.y; //벡터의 y값 차이
 
-            float rad = Mathf.Atan2(dy, dx); // rad = dy/dx(탄젠트값)  => 앵글을 구하는 함수
+            float rad = Mathf.Atan2(dy, dx); // rad(기울기값) = dy/dx(탄젠트값)  => 앵글을 구하는 함수
             angle = rad * Mathf.Rad2Deg;
         }
 
